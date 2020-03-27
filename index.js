@@ -1,7 +1,7 @@
 // Credits: https://www.youtube.com/watch?v=zVqczFZr124
 
 // Import this by running in terminal in this directory
-// $ npm install --save crypto-js
+// $ npm install --save crypto-js 
 const SHA256 = require('crypto-js/sha256');
 
 class Block{
